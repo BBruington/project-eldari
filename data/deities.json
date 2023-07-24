@@ -1,0 +1,59 @@
+{
+  "deities": [
+    {
+      "id": 1,
+      "deity": "Wel'Kreard",
+      "title": "The God of Fates",
+      "alignment": "Lawful Neutral"
+    },
+    {
+      "id": 2,
+      "deity": "Vaanithel",
+      "title": "The Living World",
+      "alignment": "Chaotic Neutral"
+
+    },
+    {
+      "id": 3,
+      "deity": "Maerd",
+      "title": "The God of Dreams",
+      "alignment": "Chaotic Neutral"
+
+    },
+    {
+      "id": 4,
+      "deity": "Shub'Girothe",
+      "title": "the God of Insanity",
+      "alignment": "Chaotic Evil"
+
+    },
+    {
+      "id": 5,
+      "deity": "Stern",
+      "title": "The Godess of Protection",
+      "alignment": "Lawful Good"
+
+    },
+    {
+      "id": 6,
+      "deity": "Archon",
+      "title": "The Inquisitor of Corruption",
+      "alignment": "Chaotic Good"
+
+    },
+    {
+      "id": 7,
+      "deity": "Aazzel",
+      "title": "The God of Deals",
+      "alignment": "Lawful Evil"
+
+    },
+    {
+      "id": 8,
+      "deity": "The Frostmaiden",
+      "title": "God of Fates",
+      "alignment": "Chaotic Evil"
+
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "session": [
+    {  
+    "session": 1,
+    "description": "Session 1 begins in a prison wagon. The party wakes up inside the cage within the back of the wagon with each other and their new warden; a apathetic kobold named Scrapper as company. He explains their situation of becoming prisoners tasked with taking on jobs from their new lord: Silver Eye Lumin Eos. And to gauge the party's worth, Scrapper has them freed to take on an assault from strange ant-like creatures equiped with acid and mandibles. By the end of the fight, the party narrowly wins but at the cost of one of them: Grifith going unconscious and becoming possesed by a fiendish black blade. Scrapper manages to subdue the possesed player and entombs him in a cocoon of divine ice using a magical item; a small shard of ice that must be injested.", 
+    "intro": "The party has been captured by the Kingdom of Loniria and must prove their worth to survive", 
+    "title": "Something's Bugging Me",
+    "combat": "combat details",
+    "npcs": "npcs are here: Silver Fang Scrapper",
+    "roleplay": "roleplay details"
+    },
+    {  
+    "session": 2,
+    "description": "Worried of Griffith's wellbeing, Scrapper and the party hastily make their way to Loniria. Scrapper briefly speaks to his partner and friend, Ali then brings Griffith to the Alchemists tower while the gnomes, Zook and Psaila, go the Brick the Blacksmith to repair Zook's chainmail armor. There he introduces the kobold in charge: Glass and requests aid to free Griffith from the cocoon of divine ice. Glass accepts and even offers payment to research Griffith after being exposed to such a magical process.", 
+    "intro": "intro 2", 
+    "title": "Welcome to Lorn",    
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details" 
+    },
+    {  
+    "session": 3,
+    "description": "description 3", 
+    "intro": "intro 3", 
+    "title": "Missing Person / Gaslighting an Old Kobold",       
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"      
+    },
+    { 
+    "session": 4, 
+    "description": "description 4", 
+    "intro": "intro 4", 
+    "title": "Missing Person / A Feeling of Dread",     
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 5, 
+    "description": "description 5", 
+    "intro": "intro 5", 
+    "title": "Making an Oath",     
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 6, 
+    "description": "description 6", 
+    "intro": "intro 6", 
+    "title": "Clearing an Infestation",     
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 7, 
+    "description": "description 7", 
+    "intro": "intro 7", 
+    "title": "Saving an Alchemist with Blood / the Aftermath",     
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 8, 
+    "description": "description 8", 
+    "intro": "intro 8", 
+    "title": "Celebrations for a job well done",     
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 9, 
+    "description": "description 9", 
+    "intro": "intro 9", 
+    "title": "Meeting with the Lord of the Land",     
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 10, 
+    "description": "description 10", 
+    "intro": "intro 10", 
+    "title": "The Hunt part 1",    
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 11, 
+    "description": "description 11", 
+    "intro": "intro 11", 
+    "title": "The Hunt part 2",    
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 12, 
+    "description": "description 12", 
+    "intro": "intro 12", 
+    "title": "Unchained",    
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    },
+    { 
+    "session": 13, 
+    "description": "description 13", 
+    "intro": "intro 13", 
+    "title": "The Chase",    
+    "combat": "combat details",
+    "npcs": "npcs are here",
+    "roleplay": "roleplay details"
+    }
+  ]  
+}
