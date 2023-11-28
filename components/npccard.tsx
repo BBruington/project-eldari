@@ -1,5 +1,4 @@
 
-/* eslint-disable-next-line */
 export interface NPCcardProps {}
 
 export function NPCcard(props: NPCcardProps) {
